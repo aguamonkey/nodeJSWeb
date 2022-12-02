@@ -1,0 +1,22 @@
+{
+  "name": "nodejsweb",
+  "version": "1.0.0",
+  "description": "Repo setup for delving into using node.js frameworks such as express, hapi and sails. The intial reason for this repo coincides with the blockchain udacity course I am currently doing. A web framework may be required depending on the type of blockchain I seek to build in the future.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguamonkey/nodeJSWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aguamonkey/nodeJSWeb/issues"
+  },
+  "homepage": "https://github.com/aguamonkey/nodeJSWeb#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
